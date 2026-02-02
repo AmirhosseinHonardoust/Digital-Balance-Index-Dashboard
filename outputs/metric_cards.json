@@ -1,0 +1,33 @@
+{
+  "n_rows": 2800,
+  "n_days": 366,
+  "avg_total_screen_time": 8.155178571428571,
+  "avg_dbi": 0.879996773515724,
+  "balanced_rate_pct": 80.92857142857143,
+  "skewed_rate_pct": 1.7857142857142856,
+  "highload_skewed_rate_pct": 0.03571428571428571,
+  "thresholds": {
+    "dbi_thresholds": {
+      "balanced_ge": 0.8,
+      "mixed_ge": 0.6
+    },
+    "load_quantiles": {
+      "q33": 7.1,
+      "q66": 9.2
+    }
+  },
+  "validation": {
+    "schema": {
+      "n_rows": 2800,
+      "n_cols": 10,
+      "missing_required_cols": [],
+      "has_missing_values": false,
+      "duplicate_user_id": 0
+    },
+    "identity": {
+      "identity_check_run": true,
+      "max_abs_diff": 1.7763568394002505e-15,
+      "rows_failing": 0
+    }
+  }
+}
