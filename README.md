@@ -10,7 +10,7 @@
 ![Analytics](https://img.shields.io/badge/Focus-Behavioral%20Analytics-purple)
 ![Metric](https://img.shields.io/badge/Metric-DBI%20%28Digital%20Balance%20Index%29-yellow)
 ![License](https://img.shields.io/badge/License-MIT-lime)
-    
+     
 </div>
       
 --- 
