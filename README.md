@@ -14,7 +14,7 @@
 </div>
        
 ---  
-   
+    
 A portfolio-grade analytics project that turns raw “hours spent” into **composition-first behavioral insights**.
 
 Most screen-time analyses stop at **totals** (“people spend 8 hours/day”).  
