@@ -2,7 +2,7 @@
   <h1 align="center">Digital Balance Index (DBI) Dashboard </h1>
     <p align="center">
 <div align="center">
-        
+         
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-brown)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
